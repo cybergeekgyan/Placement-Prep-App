@@ -37,3 +37,11 @@
   - System Design 
     - Low Level Design
     - High Level Design
+    
+### Other Features
+
+  - **Podcast** -> *for Interview Experience*
+  - **Mock Interview Platform** -> *practice before your Interview based on the actual Interview Scenario*
+  - **Hiring Opportunity** -> *A portal dedicated to Hiring Opportunities in recent times*
+  - **Top HR Questions and Answers**
+  
