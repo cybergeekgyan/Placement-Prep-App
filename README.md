@@ -32,7 +32,7 @@
     - [OOPS]()
     - [Operating System]()
     - [DBMS]()
-    - [Computer Networks()
+    - [Computer Networks]()
     
   - System Design 
     - Low Level Design(LLD)
