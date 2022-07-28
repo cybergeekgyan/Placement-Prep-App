@@ -28,15 +28,15 @@
   
   - Top CodeChef/Codeforces Questions in Easy/Medium/Hard level
   
-  - Core CS Subjects
-    - OOPS
-    - Operating System
-    - DBMS
-    - Computer Networks
+  - Roadmaps for Core CS Subjects
+    - [OOPS]()
+    - [Operating System]()
+    - [DBMS]()
+    - [Computer Networks()
     
   - System Design 
-    - Low Level Design
-    - High Level Design
+    - Low Level Design(LLD)
+    - High Level Design(HLD)
     
 ### Other Features
 
