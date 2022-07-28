@@ -1,6 +1,6 @@
 ## Placement-Prep-App/Web App
 
-**Placement/Internship Preparation App for Android/iOS**
+**A Cross-Platform Placement/Internship Preparation App**
 
 **Important Features**
   - Programming Languages 
